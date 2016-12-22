@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: spark-core-2.5.jar websocket-server-9.3.6.v20151106.jar je
+ tty-security-9.3.6.v20151106.jar websocket-api-9.3.6.v20151106.jar je
+ tty-server-9.3.6.v20151106.jar javax.servlet-api-3.1.0.jar jetty-xml-
+ 9.3.6.v20151106.jar jetty-io-9.3.6.v20151106.jar jetty-util-9.3.6.v20
+ 151106.jar json.jar jetty-http-9.3.6.v20151106.jar websocket-client-9
+ .3.6.v20151106.jar jacob.jar jetty-webapp-9.3.6.v20151106.jar slf4j-a
+ pi-1.7.5.jar websocket-servlet-9.3.6.v20151106.jar websocket-common-9
+ .3.6.v20151106.jar jetty-servlet-9.3.6.v20151106.jar slf4j-nop-1.7.5.
+ jar
+Main-Class: Main
+
